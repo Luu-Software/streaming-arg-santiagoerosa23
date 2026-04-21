@@ -21,6 +21,15 @@ h1 {
   flex-wrap: wrap;
 }
 
+body {
+ background-color:  #030026; 
+}
+
+.boton {
+  background-color: green;
+}
+
+
 footer {
   display: flex;
   justify-content: space-between;
